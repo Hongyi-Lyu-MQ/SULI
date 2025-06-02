@@ -1,6 +1,4 @@
-numpy
-matplotlib
-torch
-torchvision
-scikit-learn
-notebook
+torch==2.3.0+cu121
+torchvision==0.18.0+cu121
+timm==0.9.16
+transformers==4.41.2
