@@ -1,4 +1,4 @@
-# Unlearning Methods for IJCAI 2025 Submission
+# This is a Python implementation of "Fine-Grained and Efficient Self-Unlearning with Layered Iteration" for IJCAI 2025 Submission
 
 This repository contains code for class-wise and instance-wise unlearning, developed for submission to **IJCAI 2025**. The methods implemented allow selective forgetting of specific data samples from a trained model.
 
